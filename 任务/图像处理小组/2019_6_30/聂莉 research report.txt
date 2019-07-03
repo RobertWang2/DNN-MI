@@ -1,0 +1,11 @@
+research report
+2019/6/30
+research state
+     1. For thw paper of OA, I have learned how to  configurate environment of VTK, ITK and VS. In addition, I learn some basic knowledge about VTK and ITK.
+     2. Since the work of improving meanshift algorithm seems to be a bit complex which need more basic capacity of mathematics and
+ programming, I need more time to improve my skills.  And I plan to postpone it until I finish my  postgraduate entrance exams. 
+     3. For now, I plan to spent 25 days to learn python programming to improve my coding ability by working on some simple projects.
+research plan
+     1. I will write a draft paper of OA on the parts of Introdution and Disscution before 7th in july.
+     2. Learn some frame structure of VTK and ITK.
+     3. Keep learning python.
