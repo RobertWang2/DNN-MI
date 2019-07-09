@@ -1,0 +1,12 @@
+research report
+2019/7/9
+research state
+     1. For thw paper of OA, I have learned how to  configurate environment of VTK, ITK and VS. In addition, 
+I review some basic grammer of C plus.
+     2. For the work of improving mean shift algorithm£¬ I write the code and run some simple 2D data set. 
+ I plan to input some medical images through it .
+     3. For now, I have spent 10 days to learn python programming to improve my coding ability by working on some simple projects.
+research plan
+     1. I will write a draft paper of OA on the parts of Introdution and Disscution before 13 in july.
+     2. Learn some frame structure of VTK and ITK.
+     3. Keep learning mean shift and do some image segmentation by it.
